@@ -1,7 +1,7 @@
 import React from 'react';
 
 //stateless functionl component
-const Header = (props)=>{
+const Header=(props)=>{
     return(           
       <header className="top">
            <h1>
